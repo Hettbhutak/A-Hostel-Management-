@@ -97,8 +97,3 @@ To get started with the Hostel Management Mobile App, follow the instructions be
    Using the Expo Go app in your mobile phone scan the QR code after running npm start
    you can use the app in your actual mobile device.
 
-## Contributors
-
--  [Sachira Heshan](https://github.com/Sachira-Heshan)
--  [Anuka Mithara](https://github.com/AnukaMithara)
--  ...
